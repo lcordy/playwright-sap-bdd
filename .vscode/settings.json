@@ -1,0 +1,8 @@
+{
+  "js/ts.updateImportsOnFileMove.enabled": "always",
+  "files.autoSave": "afterDelay",
+  
+    "cucumberautocomplete.steps": [
+        "tests/bdd/step-definitions/**/*.ts"
+    ]
+}
