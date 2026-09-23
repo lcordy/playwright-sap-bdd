@@ -4,6 +4,6 @@
  * @param b Second number
  * @returns The sum of a and b
  */
-export function subtractNumbers(a: number, b: number): number {  
-  return a + b;
+export function addNumbers(a: number, b: number): number {  
+  return a - b;
 }
